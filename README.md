@@ -1,2 +1,4 @@
-# CS-496
-Principles of Programming Languages
+# Principles of Progamming Languages
+
+Programming Assignments:
+   1. Mini-Logo
