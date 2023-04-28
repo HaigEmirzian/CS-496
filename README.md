@@ -5,3 +5,4 @@ Programming Assignments:
    2. General Trees
    3. Let
    4. Explicit Refs
+   5. Checker
